@@ -13,3 +13,4 @@ imageClipController.imageClipFinishedHandle = ^(UIImage * _Nonnull image) {
 
 };
 ```
+![](https://github.com/A1129434577/LBImageClipController/blob/main/LBImageClipController.gif?raw=true)
